@@ -6,7 +6,7 @@ A simple self-hosted image upload service that allows you to upload images and g
 
 When shared on Discord, your images will appear with a nice embed like this:
 
-![Discord Embed Example](./image.png)
+![Discord Embed Example](./example.png)
 
 ## Features
 
